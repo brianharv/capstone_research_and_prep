@@ -23,6 +23,7 @@ _A mobile messaging app that employs the Google Translate API to process your te
 * Download and configure Android Studio
 * Try to debug adb path *Completed*
 * Setup and run Android emulator
+* Continue working through React Native Tutorials
 
 
 ## Setup/Installation Requirements
