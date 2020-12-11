@@ -19,6 +19,7 @@ _A mobile messaging app that employs the Google Translate API to process your te
 * Node EACCES and expo cli issues resolved.
 * Able to launch Expo.
 * Configure XCode.
+* Coonect device to Expo and initialize basic React Native functions.
 
 
 ## Setup/Installation Requirements
