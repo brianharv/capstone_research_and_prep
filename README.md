@@ -21,6 +21,7 @@ _A mobile messaging app that employs the Google Translate API to process your te
 * Configure XCode.
 * Coonect device to Expo and initialize basic React Native functions.
 * Download and configure Android Studio
+* Try to debug adb path
 
 
 ## Setup/Installation Requirements
