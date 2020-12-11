@@ -18,6 +18,7 @@ _A mobile messaging app that employs the Google Translate API to process your te
 * Lot's of Node EACCES issues.
 * Node EACCES and expo cli issues resolved.
 * Able to launch Expo.
+* Configure XCode.
 
 
 ## Setup/Installation Requirements
