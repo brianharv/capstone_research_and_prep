@@ -8,9 +8,9 @@ README Temp
 
 ## Description
 
-_A mobile messaging app that employs the Google Translate API to process your text message and present your translated message to a selected user.
+A mobile messaging app that employs the Google Translate API to process a users text message and present the translated message to another user.
 
-## Research Done
+## Research Done 11/12/2020:
 * 11/12/2020 - Dive into Xcode, React Native and Google Translate Documentation: <br>
          Follow along with [this tutorial](https://www.youtube.com/watch?v=qSRrxpdMpVc). <br>
          Complete [this walkthrough](https://www.youtube.com/watch?v=qSRrxpdMpVc).
