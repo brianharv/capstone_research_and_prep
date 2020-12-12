@@ -25,7 +25,7 @@ _A mobile messaging app that employs the Google Translate API to process your te
 * Setup and run Android emulator
 * Continue working through React Native Tutorials
 * Practice styling in React Native
-* Trying to Debug Expo
+* Trying to Debug Expo *Complete*
 
 ## Setup/Installation Requirements
 
