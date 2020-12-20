@@ -27,6 +27,7 @@ A mobile messaging app that employs the Google Translate API to process a users 
 * Practice styling in React Native
 * Trying to Debug Expo *Complete*
 * Begin Research for Firebase Auth and Debug
+* [Following along with docs](https://reactnavigation.org/docs/nesting-navigators).
 
 ## Setup/Installation Requirements
 
