@@ -26,6 +26,7 @@ A mobile messaging app that employs the Google Translate API to process a users 
 * Continue working through React Native Tutorials
 * Practice styling in React Native
 * Trying to Debug Expo *Complete*
+* Begin Research for Firebase Auth and Debug
 
 ## Setup/Installation Requirements
 
